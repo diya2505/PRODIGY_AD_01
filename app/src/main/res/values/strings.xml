@@ -2,4 +2,5 @@
     <string name="app_name">New calculator</string>
     <string name="text"></string>
     <string name="text2"></string>
+    <string name="_7">7</string>
 </resources>

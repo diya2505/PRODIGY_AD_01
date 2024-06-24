@@ -103,8 +103,8 @@
                 android:layout_margin="10dp"
                 android:layout_weight="1"
                 android:backgroundTint="#303136"
-                android:onClick="onDigitClick"
-                android:text="7"
+                android:onClick="onDigitCLick"
+                android:text="@string/_7"
                 android:textColor="#29A8FF"
                 android:textSize="25sp"
                 app:cornerRadius="12dp" />
